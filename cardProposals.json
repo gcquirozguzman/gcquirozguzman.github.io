@@ -3,8 +3,15 @@
     {
       "grantedCredits": {
         "maximum": 20000,
-        "minimum": 10000
-      }
+        "minimum": 10000,
+        "proposed": 20000
+      },
+      "img": "https://assets.caasbbva.com/peru/net/productos/tarjetas/visa-lifemiles-signature-188x304.png",
+      "insurance": 5.6,
+      "membership": 450,
+      "name": "Visa Signature Lifemiles",
+      "tcea": 129.5,
+      "tea": 56.75
     }
   ]
 }
